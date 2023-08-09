@@ -17,8 +17,8 @@ PAGE_TITLE = "CV Digitale | Zakaria TEMOUCH"
 PAGE_ICON = ":wave:"
 NAME = "ZAKARIA TEMOUCH"
 DESCRIPTION = """
-Étudiant en Master - Ingénierie des Energies Renouvelables et Éfficacité Energétique\n
-Procédées Thermiques et Valorisation de l'Energie
+Étudiant en Master - Ingénierie des Énergies Renouvelables et Efficacité Énergétique\n
+Procédées Thermiques et Valorisation de l'Énergie
 """
 EMAIL = "zakariatemouch@gmail.com"
 TEL = "+212 696 79 16 27"
@@ -81,12 +81,12 @@ def display_education():
     st.header("FORMATION ACADEMIQUE")
     st.write('\n')
     st.write('\n')
-    st.subheader("Master - Ingénierie des Energies Renouvelables et Efficacité Energétique")
+    st.subheader("Master - Ingénierie des Énergies Renouvelables et Efficacité Énergétique")
     st.write("Octobre 2022 - Présent")
     st.write(
 """
 \n
-Option: Procédés Thermiques et Valorisation de l'Energie\n
+Option: Procédés Thermiques et Valorisation de l'Énergie\n
 Faculté Polydisciplinaire - Université Sultan Moulay Slimane - Béni Mellal, Maroc\n
 """
 )
